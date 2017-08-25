@@ -1,0 +1,24 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "FlashCard.js",
+  "dependencies": {
+    "inquirer": "^3.1.1",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyeBukowski/Flashcard-Generator.git"
+  },
+  "author": "Joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyeBukowski/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/RyeBukowski/Flashcard-Generator#readme"
+}
